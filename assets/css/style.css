@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 800;
+    font-size: 20px !important;
+
+    
+}
+.hero{
+    background-image: url(../imgs/code-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30em;
+    background-position: center;
+    margin: 0%;   
+}
+.presentacion{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 300;
+
+}
+.presentacion image{
+    width: 10px;
+}
+.experiencia{
+    font-family: 'Roboto', sans-serif !important;
+
+}
+.portafolio{
+    font-family: 'Dancing Script', cursive;
+}
+.contacto{
+    background-color: #c1b5a9;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+footer{
+    height: 2em;
+    font-family: 'Dancing Script', cursive;
+}
