@@ -37,7 +37,16 @@ nav{
     font-family: 'Roboto', sans-serif !important;
 
 }
+.habilidades{
+    font-family: 'Roboto', sans-serif !important;
+}
 footer{
-    height: 2em;
+    height: 4em;
     font-family: 'Dancing Script', cursive;
+    font-size: 20px !important;
+    font-weight: 800;
+}
+footer a{
+    text-decoration: none;
+    color: white;
 }
